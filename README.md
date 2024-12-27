@@ -1,1 +1,1 @@
-# COVID-19-Data-Scirnce-Semester-Projest
+# COVID-19-Data Analysis
